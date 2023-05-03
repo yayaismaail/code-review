@@ -1,50 +1,53 @@
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-html, body {
-    padding: 0;
-    margin: 0;
+html,
+body {
+  padding: 0;
+  margin: 0;
 }
 
 body {
-   background-color: grey;
-} 
+  background-color: grey;
+}
 
 .header {
-    text-align: center;
-    color: #fff;
+  text-align: center;
+  color: #fff;
 }
 
 label {
-    color: #fff;
+  color: #fff;
 }
 
 form {
-    background-color: #173459;
-    padding: 15px;
-    margin: 30px;
+  background-color: #173459;
+  padding: 15px;
+  margin: 30px;
 }
 
-input[type='text'],input[type='email'],input[type='number'],select,textarea {
-    width: 100%;
+input[type='text'],
+input[type='email'],
+input[type='number'],
+select,
+textarea {
+  width: 100%;
 }
 
 h4 {
-    color: #fff;
+  color: #fff;
 }
 
 button {
-    background-color: green;
-    width: 100%;
-    border: none;
-    color: #fff;
-    padding: 10px;
+  background-color: green;
+  width: 100%;
+  border: none;
+  color: #fff;
+  padding: 10px;
 }
 
 .p {
-    font-size: 20px;
+  font-size: 20px;
 }
-
-
