@@ -106,9 +106,10 @@ You can deploy this project using [Netlify](https://www.netlify.com/) or [Github
 
 👤 **Ismail Hlliru Muhammad**
 
-- GitHub: [@M-AminAlizadeh](https://github.com/M-AminAlizadeh)
-- Twitter: [@AMINALI69393891](https://twitter.com/AMINALI69393891)
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/m-amin-alizadeh-60a20b1b0/)
+
+- GitHub: [@githubhandle](https://github.com/ismailhallirumuhammad)
+- Twitter: [@twitterhandle](https://mobile.twitter.com/IsmailhalliruM1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/mwlite/in/ismail-halliru-muhammad-2a8453127)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
